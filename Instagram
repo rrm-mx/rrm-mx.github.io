@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Página mía</title>
+  </head>
+  <body>
+    <h1>TRANSPORTES RAF</h1>
+    <h2>RAFAEL ROJAS MORALES</h2>
+      Hola mis amigos
+  </body>
+</html>
+
+<table style="table-layout:fixed" width="100%" border="1">
+  <tr>
+      <th width="20%">Columna11</th>
+      <th width="100">Columna12</th>
+      <th >Columna13</th>
+      <th width="100">Columna14</th>
+      <th >Columna15</th>
+</tr>
+<tr height="50">
+      <td width="50%">Columna21</td>
+      <td width="300">Columna22</td>
+      <td >Columna23</td>
+      <td colspan="2">Columna24</td>
+    </tr>
+</table>
